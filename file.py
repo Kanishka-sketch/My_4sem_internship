@@ -1,1 +1,1 @@
-print("Hello Python");
+import numpy as np 
